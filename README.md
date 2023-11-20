@@ -13,7 +13,8 @@ Ce projet est une application web de calculatrice NPI (Notation Polonaise Invers
 ### Backend
 
 1. **Cloner le dépôt :**
-git clone [<URL_DU_DEPOT>](https://github.com/MOEDSALHI/calculatrice-npi-react)
+git clone https://github.com/MOEDSALHI/calculatrice-npi-react
+
 cd calculatrice-npi
 
 2. **Construire et démarrer le backend avec Docker Compose :**
